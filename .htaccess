@@ -1,0 +1,37 @@
+RewriteEngine on
+Options -Indexes
+
+RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
+RewriteRule ^(.*)$ http://%1/$1 [R=301,L]
+
+DirectoryIndex index.php
+
+ErrorDocument 400 index.html
+ErrorDocument 401 index.html
+ErrorDocument 403 index.html
+ErrorDocument 404 index.html
+ErrorDocument 500 index.html
+ErrorDocument 502 index.html
+ErrorDocument 504 index.html
+
+RewriteRule ^admin$ admin/index.php [L]
+RewriteRule ^admin/$ admin/index.php [L]
+
+RewriteRule ^([a-zA-Z0-9_-]+)$ index.php?com=can-ho&id=$1  [L]
+RewriteRule ^([a-zA-Z0-9_-]+)&p=([0-9]+)$ index.php?com=can-ho&id=$1&p=$2  [L]
+
+
+RewriteRule ^([a-zA-Z0-9_-]+).html$ index.php?com=$1  [L]
+RewriteRule ^([a-zA-Z0-9_-]+).html&p=([0-9]+)$ index.php?com=$1&p=$2  [L]
+
+
+RewriteRule ^([a-zA-Z0-9_-]+)/$ index.php?com=du-an&id_danhmuc=$1  [L]
+RewriteRule ^([a-zA-Z0-9_-]+)/&p=([0-9]+)$ index.php?com=du-an&id_danhmuc=$1&p=$2  [L]
+
+RewriteRule ^([a-zA-Z0-9_-]+)/([a-zA-Z0-9_-]+)/$ index.php?com=san-pham&id_list=$2  [L]
+RewriteRule ^([a-zA-Z0-9_-]+)/([a-zA-Z0-9_-]+)/&p=([0-9]+)$ index.php?com=san-pham&id_list=$2&p=$3  [L]
+
+RewriteRule ^([a-zA-Z0-9_-]+).html/keyword=(.*)$ index.php?com=$1&keyword=$2  [L]
+RewriteRule ^([a-zA-Z0-9_-]+).html/keyword=(.*)&p=([0-9]+)$ index.php?com=$1&keyword=$2&p=$3  [L]
+
+

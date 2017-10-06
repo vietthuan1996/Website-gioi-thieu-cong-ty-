@@ -1,0 +1,248 @@
+    
+@media screen  and  (max-width: 1100px){
+	div.row-header .icontop{
+		width: 100%;
+	}
+    #header{
+        width: 100%;
+    }
+    .index-about img{
+        display: none;
+
+    }
+    .index-project{
+        display: none;
+    }
+    .index-year{
+        display: none;
+    }
+    .index-CEO{
+        display: none;
+    }
+    .slider-CEO{
+        display: none;
+    }
+	.title-request{
+        display: none;
+    }
+    .form-request{
+        width: 70%;
+        right: 100px;
+        height: auto;
+    }
+    .index-form{
+        width: 100%;
+        height: 800px;
+    }
+    #footer{
+        height: auto;
+        width: auto;
+    }
+    .navigation{
+        height: auto;
+    }
+    .col-contact{
+        width: 100%;
+        margin-top: 10px;
+    }
+}
+@media (min-width: 993px) and (max-width: 1200px){
+    #header{
+        width: 100%;
+    }
+    #sologan{
+        display: none;
+    }
+
+    
+    .col-services{
+        width: 100%;
+    }
+}
+ @media (min-width: 768px) and (max-width: 992px){
+    .col-services{
+        width: 100%;
+    }
+ }
+ @media (min-width: 640px) and (max-width: 767px){
+    .col-services{
+        width: 100%;
+    }
+    .index-services .col-xs-4{
+        width: 100%;
+    }
+ }
+ @media (min-width: 496px) and (max-width: 693px){
+ }
+@media screen  and  (max-width: 1600px){
+    #header{
+        width: 100%;
+    }
+    .index-project{
+        display: none;
+    }
+    .index-year{
+        display: none;
+    }
+    .index-CEO{
+        display: none;
+    }
+    .slider-CEO{
+        display: none;
+    }
+}
+
+@media screen and (max-width: 450px)
+{   
+    #header{
+        width: 100%;
+        height: 170px;
+    }
+    /* start responsive header */
+    .row-header{
+        height: 80px;
+    }
+    .lefticontop{
+        width: 100%;
+    }
+
+    .navigation{
+        height: 300px;
+    }
+    .slider{
+        clear: both;
+    }
+
+	
+
+    /* end responsive header */
+    .index-about img{
+        display: none;
+
+    }
+    .index-about{
+        height: 800px;
+    }
+    .index-project{
+        display: none;
+    }
+    .index-year{
+        display: none;
+    }
+    .index-CEO{
+        display: none;
+    }
+    .slider-CEO{
+        display: none;
+    }
+    .form-request{
+        width: 50%;
+
+    }
+    .index-form{
+        width: 100%;
+        height: 800px;
+    }
+    .form-request{
+        width: 70%;
+        height: auto;
+        right: 35px;
+    }
+    #footer{
+        height: auto;
+        width: auto;
+    }
+    .navigation{
+        height: auto;
+    }
+    .col-services{
+        width: 100%;
+    }
+}
+
+@media all and (max-width: 768px), only screen and (-webkit-min-device-pixel-ratio: 2) and (max-width: 1024px), only screen and (min--moz-device-pixel-ratio: 2) and (max-width: 1024px), only screen and (-o-min-device-pixel-ratio: 2/1) and (max-width: 1024px), only screen and (min-device-pixel-ratio: 2) and (max-width: 1024px), only screen and (min-resolution: 192dpi) and (max-width: 1024px), only screen and (min-resolution: 2dppx) and (max-width: 1024px) {
+  #menu {
+    width: 100%;
+  }
+  #menu ul {
+    width: 100%;
+    display: none;
+  }
+  #menu.align-center > ul,
+  #menu.align-right ul ul {
+    text-align: left;
+  }
+  #menu ul li,
+  #menu ul ul li,
+  #menu ul li:hover > ul > li {
+    width: 100%;
+    height: auto;
+  }
+  
+  #menu ul li a,
+  #menu ul ul li a {
+    width: 100%;
+  }
+  #menu > ul > li,
+  #menu.align-center > ul > li,
+  #menu.align-right > ul > li {
+    float: none;
+    display: block;
+  }
+  #menu ul ul li a {
+    padding: 20px 20px 20px 30px;
+    font-size: 12px;
+    color: #000000;
+    background: none;
+  }
+  #menu ul ul li:hover > a,
+  #menu ul ul li a:hover {
+    color: #000000;
+  }
+  #menu ul ul ul li a {
+    padding-left: 40px;
+  }
+  #menu ul ul,
+  #menu ul ul ul {
+    position: relative;
+    left: 0;
+    right: auto;
+    width: 100%;
+    margin: 0;
+  }
+  
+  #menu #menu-button {
+    display: block;
+    padding: 20px;
+    color: #000000;
+    cursor: pointer;
+    font-size: 12px;
+    text-transform: uppercase;
+  }
+  #menu #menu-button::after {
+    content: '';
+    position: absolute;
+    top: 44px;
+    right: 20px;
+    display: block;
+    width: 15px;
+    height: 2px;
+    background: #000000;
+  }
+  #menu #menu-button::before {
+    content: '';
+    position: absolute;
+    top: 50px;
+    right: 20px;
+    display: block;
+    width: 15px;
+    height: 3px;
+    border-top: 2px solid #000000;
+    border-bottom: 2px solid #000000;
+    padding: 2px;
+  }
+  #menu ul{
+    text-align: right;
+  }
+  
+}

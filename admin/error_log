@@ -1,0 +1,101 @@
+[21-Apr-2017 21:03:38 Asia/Ho_Chi_Minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/thtledcom/public_html/admin/index.php on line 331
+[21-Apr-2017 21:03:38 Asia/Ho_Chi_Minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/thtledcom/public_html/admin/index.php on line 331
+[21-Apr-2017 21:03:39 Asia/Ho_Chi_Minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/thtledcom/public_html/admin/index.php on line 331
+[21-Apr-2017 21:03:39 Asia/Ho_Chi_Minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/thtledcom/public_html/admin/index.php on line 331
+[22-Apr-2017 09:01:46 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/thtledcom/public_html/admin/lib/functions.php on line 298
+[22-Apr-2017 21:10:35 Asia/Ho_Chi_Minh] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/thtledcom/public_html/admin/lib/class.database.php on line 151
+[22-Apr-2017 21:11:05 Asia/Ho_Chi_Minh] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/thtledcom/public_html/admin/lib/class.database.php on line 151
+[22-Apr-2017 21:11:05 Asia/Ho_Chi_Minh] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/thtledcom/public_html/admin/lib/class.database.php on line 151
+[22-Apr-2017 21:11:05 Asia/Ho_Chi_Minh] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/thtledcom/public_html/admin/lib/class.database.php on line 151
+[22-Apr-2017 21:11:05 Asia/Ho_Chi_Minh] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/thtledcom/public_html/admin/lib/class.database.php on line 151
+[22-Apr-2017 21:11:05 Asia/Ho_Chi_Minh] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/thtledcom/public_html/admin/lib/class.database.php on line 151
+[22-Apr-2017 21:11:05 Asia/Ho_Chi_Minh] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/thtledcom/public_html/admin/lib/class.database.php on line 151
+[22-Apr-2017 21:11:05 Asia/Ho_Chi_Minh] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/thtledcom/public_html/admin/lib/class.database.php on line 151
+[22-Apr-2017 21:11:05 Asia/Ho_Chi_Minh] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/thtledcom/public_html/admin/lib/class.database.php on line 151
+[22-Apr-2017 21:11:05 Asia/Ho_Chi_Minh] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/thtledcom/public_html/admin/lib/class.database.php on line 151
+[22-Apr-2017 21:11:16 Asia/Ho_Chi_Minh] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/thtledcom/public_html/admin/lib/class.database.php on line 151
+[22-Apr-2017 21:11:16 Asia/Ho_Chi_Minh] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/thtledcom/public_html/admin/lib/class.database.php on line 151
+[22-Apr-2017 21:11:16 Asia/Ho_Chi_Minh] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/thtledcom/public_html/admin/lib/class.database.php on line 151
+[22-Apr-2017 21:11:33 Asia/Ho_Chi_Minh] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/thtledcom/public_html/admin/lib/class.database.php on line 151
+[22-Apr-2017 21:11:33 Asia/Ho_Chi_Minh] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/thtledcom/public_html/admin/lib/class.database.php on line 151
+[22-Apr-2017 21:11:56 Asia/Ho_Chi_Minh] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/thtledcom/public_html/admin/lib/class.database.php on line 151
+[22-Apr-2017 21:11:56 Asia/Ho_Chi_Minh] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/thtledcom/public_html/admin/lib/class.database.php on line 151
+[22-Apr-2017 21:12:14 Asia/Ho_Chi_Minh] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/thtledcom/public_html/admin/lib/class.database.php on line 151
+[22-Apr-2017 21:12:14 Asia/Ho_Chi_Minh] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/thtledcom/public_html/admin/lib/class.database.php on line 151
+[22-Apr-2017 21:12:14 Asia/Ho_Chi_Minh] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/thtledcom/public_html/admin/lib/class.database.php on line 151
+[22-Apr-2017 21:12:30 Asia/Ho_Chi_Minh] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/thtledcom/public_html/admin/lib/class.database.php on line 151
+[22-Apr-2017 21:12:30 Asia/Ho_Chi_Minh] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/thtledcom/public_html/admin/lib/class.database.php on line 151
+[22-Apr-2017 21:12:47 Asia/Ho_Chi_Minh] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/thtledcom/public_html/admin/lib/class.database.php on line 151
+[22-Apr-2017 21:12:47 Asia/Ho_Chi_Minh] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/thtledcom/public_html/admin/lib/class.database.php on line 151
+[22-Apr-2017 21:12:59 Asia/Ho_Chi_Minh] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/thtledcom/public_html/admin/lib/class.database.php on line 151
+[29-Apr-2017 10:11:28 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/thtledcom/public_html/admin/lib/functions.php on line 298
+[29-Apr-2017 10:12:59 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/thtledcom/public_html/admin/lib/functions.php on line 298
+[29-Apr-2017 10:13:38 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/thtledcom/public_html/admin/lib/functions.php on line 298
+[29-Apr-2017 10:14:24 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/thtledcom/public_html/admin/lib/functions.php on line 298
+[29-Apr-2017 10:14:58 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/thtledcom/public_html/admin/lib/functions.php on line 298
+[29-Apr-2017 13:58:44 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/thtledcom/public_html/admin/lib/functions.php on line 298
+[29-Apr-2017 14:08:12 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/thtledcom/public_html/admin/lib/functions.php on line 298
+[29-Apr-2017 14:13:18 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/thtledcom/public_html/admin/lib/functions.php on line 298
+[29-Apr-2017 14:17:39 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/thtledcom/public_html/admin/lib/functions.php on line 298
+[29-Apr-2017 14:20:35 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/thtledcom/public_html/admin/lib/functions.php on line 298
+[29-Apr-2017 14:24:43 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/thtledcom/public_html/admin/lib/functions.php on line 298
+[03-May-2017 15:30:06 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/thtledcom/public_html/admin/lib/functions.php on line 298
+[07-May-2017 14:38:58 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/thtledcom/public_html/admin/lib/functions.php on line 298
+[07-May-2017 14:42:18 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/thtledcom/public_html/admin/lib/functions.php on line 298
+[07-May-2017 14:44:26 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/thtledcom/public_html/admin/lib/functions.php on line 298
+[07-May-2017 14:51:44 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/thtledcom/public_html/admin/lib/functions.php on line 298
+[07-May-2017 14:58:07 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/thtledcom/public_html/admin/lib/functions.php on line 298
+[07-May-2017 15:12:08 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/thtledcom/public_html/admin/lib/functions.php on line 298
+[07-May-2017 15:25:52 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/thtledcom/public_html/admin/lib/functions.php on line 298
+[07-May-2017 15:29:56 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/thtledcom/public_html/admin/lib/functions.php on line 298
+[07-May-2017 15:49:38 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/thtledcom/public_html/admin/lib/functions.php on line 298
+[07-May-2017 15:55:12 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/thtledcom/public_html/admin/lib/functions.php on line 298
+[07-May-2017 15:58:06 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/thtledcom/public_html/admin/lib/functions.php on line 298
+[07-May-2017 16:00:41 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/thtledcom/public_html/admin/lib/functions.php on line 298
+[07-May-2017 16:21:00 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/thtledcom/public_html/admin/lib/functions.php on line 298
+[07-May-2017 16:23:48 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/thtledcom/public_html/admin/lib/functions.php on line 298
+[07-May-2017 16:25:46 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/thtledcom/public_html/admin/lib/functions.php on line 298
+[08-May-2017 10:13:06 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/thtledcom/public_html/admin/lib/functions.php on line 298
+[08-May-2017 10:20:16 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/thtledcom/public_html/admin/lib/functions.php on line 298
+[08-May-2017 10:30:38 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/thtledcom/public_html/admin/lib/functions.php on line 298
+[08-May-2017 10:45:38 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/thtledcom/public_html/admin/lib/functions.php on line 298
+[08-May-2017 11:03:42 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/thtledcom/public_html/admin/lib/functions.php on line 298
+[08-May-2017 11:50:17 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/thtledcom/public_html/admin/lib/functions.php on line 298
+[08-May-2017 11:56:06 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/thtledcom/public_html/admin/lib/functions.php on line 298
+[08-May-2017 12:01:23 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/thtledcom/public_html/admin/lib/functions.php on line 298
+[08-May-2017 12:05:06 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/thtledcom/public_html/admin/lib/functions.php on line 298
+[08-May-2017 12:08:25 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/thtledcom/public_html/admin/lib/functions.php on line 298
+[08-May-2017 12:43:57 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/thtledcom/public_html/admin/lib/functions.php on line 298
+[08-May-2017 12:46:22 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/thtledcom/public_html/admin/lib/functions.php on line 298
+[08-May-2017 12:49:29 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/thtledcom/public_html/admin/lib/functions.php on line 298
+[08-May-2017 12:55:30 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/thtledcom/public_html/admin/lib/functions.php on line 298
+[08-May-2017 12:59:20 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/thtledcom/public_html/admin/lib/functions.php on line 298
+[08-May-2017 13:38:43 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/thtledcom/public_html/admin/lib/functions.php on line 298
+[08-May-2017 13:41:04 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/thtledcom/public_html/admin/lib/functions.php on line 298
+[08-May-2017 13:43:23 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/thtledcom/public_html/admin/lib/functions.php on line 298
+[08-May-2017 13:49:01 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/thtledcom/public_html/admin/lib/functions.php on line 298
+[08-May-2017 14:31:13 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/thtledcom/public_html/admin/lib/functions.php on line 298
+[08-May-2017 15:12:17 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/thtledcom/public_html/admin/lib/functions.php on line 298
+[08-May-2017 15:21:08 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/thtledcom/public_html/admin/lib/functions.php on line 298
+[08-May-2017 15:29:49 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/thtledcom/public_html/admin/lib/functions.php on line 298
+[10-May-2017 09:12:37 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/thtledcom/public_html/admin/lib/functions.php on line 298
+[10-May-2017 09:13:14 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/thtledcom/public_html/admin/lib/functions.php on line 298
+[10-May-2017 09:21:16 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/thtledcom/public_html/admin/lib/functions.php on line 298
+[10-May-2017 09:25:27 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/thtledcom/public_html/admin/lib/functions.php on line 298
+[10-May-2017 09:31:20 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/thtledcom/public_html/admin/lib/functions.php on line 298
+[10-May-2017 09:37:39 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/thtledcom/public_html/admin/lib/functions.php on line 298
+[10-May-2017 10:45:47 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/thtledcom/public_html/admin/lib/functions.php on line 298
+[10-May-2017 11:23:21 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/thtledcom/public_html/admin/lib/functions.php on line 298
+[10-May-2017 11:28:02 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/thtledcom/public_html/admin/lib/functions.php on line 298
+[10-May-2017 11:37:13 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/thtledcom/public_html/admin/lib/functions.php on line 298
+[10-May-2017 11:46:13 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/thtledcom/public_html/admin/lib/functions.php on line 298
+[10-May-2017 11:52:01 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/thtledcom/public_html/admin/lib/functions.php on line 298
+[10-May-2017 11:58:14 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/thtledcom/public_html/admin/lib/functions.php on line 298
+[10-May-2017 12:06:14 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/thtledcom/public_html/admin/lib/functions.php on line 298
+[10-May-2017 14:08:32 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/thtledcom/public_html/admin/lib/functions.php on line 298
+[10-May-2017 14:46:15 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/thtledcom/public_html/admin/lib/functions.php on line 298
+[19-May-2017 13:46:24 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/thtledcom/public_html/admin/lib/functions.php on line 298
+[19-May-2017 13:56:22 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/thtledcom/public_html/admin/lib/functions.php on line 298
+[08-Jul-2017 15:29:31 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/thtledcom/public_html/admin/lib/functions.php on line 298
+[08-Jul-2017 15:45:48 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/thtledcom/public_html/admin/lib/functions.php on line 298
+[08-Jul-2017 15:50:12 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/thtledcom/public_html/admin/lib/functions.php on line 298
